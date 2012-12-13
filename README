@@ -1,0 +1,23 @@
+This project was a genetic algorithm that would find the most-likely anscestor to a group of aligned genes using a genetic algorithm that would try to converge all genes into one common gene.  For this we did 100 trials of 1000 generations, keeping populations limited to 100, where we first weed out genes randomly (lowest score has 0% chance to survive, highest has 100%, all others between that), and then prune out the lowest until 100 remain.
+
+This is a prototype, and is being used as a proof of concept.
+
+Explanation of files:
+
+genes.txt has clustalW-aligned genes
+
+differenceIndices.txt Shows each index in genes.txt that is different, and how many amino acid in each index occurs
+
+aminoacidtable.csv shows where each index converged to over each trial.  If for example, if the amino acid "A" has more than the rest of the columns for Index 0, then the common anscestor most likely has an "A" there.
+
+mutation.py randomly creates a mutation for an amino acid.  Has a 1% chance of occurring.
+
+genome.py has a Gene object, storing the gene string for the object, has ability to add mutations, replicate itself, and keep track of fitness score
+
+survival.py determines which genes will survive
+
+proteinsort.py is a merge sort for genes
+
+proteinCounter.py keeps a count of amino acids in a population given a certain index in the aligned genes
+
+evolution.py is where the genetic algorithm occurs.  It determines a fitness function depending on the number of amino acids in other genes that are the same as the given one.  As an example, if the first amino acid for 3 genes is A, A, and V, the first two would gain a score of 2, and the last would gain a score of 1.  It adds up these sums for the fitness score.

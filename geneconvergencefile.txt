@@ -1,0 +1,20 @@
+Index 0: -: 1 A: 3 C: 2 E: 3 D: 3 G: 2 F: 2 I: 4 H: 3 K: 2 M: 3 L: 26 N: 4 Q: 4 P: 6 R: 3 T: 3 W: 7 V: 6 Y: 2 X: 11 
+Index 1: -: 3 A: 3 C: 3 E: 3 D: 5 G: 4 F: 3 I: 4 H: 3 K: 4 M: 4 L: 6 N: 1 Q: 2 P: 2 S: 24 R: 5 T: 2 W: 2 V: 5 Y: 7 X: 5 
+Index 2: -: 2 A: 7 C: 1 E: 4 D: 2 G: 3 F: 1 I: 1 H: 6 K: 1 M: 3 L: 1 N: 4 Q: 3 P: 7 S: 2 R: 1 T: 6 W: 3 V: 30 Y: 3 X: 9 
+Index 3: -: 6 A: 1 C: 2 E: 6 D: 4 G: 1 F: 1 I: 1 H: 2 K: 2 M: 2 L: 29 N: 3 Q: 3 P: 1 S: 3 R: 4 T: 6 W: 1 V: 4 Y: 3 X: 15 
+Index 4: -: 1 A: 2 C: 4 E: 2 D: 35 F: 1 I: 3 H: 3 M: 3 L: 2 N: 6 Q: 3 P: 3 S: 2 R: 3 T: 5 W: 8 V: 1 Y: 5 X: 8 
+Index 120: -: 2 A: 4 C: 5 E: 3 D: 2 G: 1 F: 3 I: 2 H: 3 K: 1 M: 4 L: 1 N: 3 Q: 34 P: 1 S: 4 R: 3 T: 5 W: 1 V: 1 Y: 1 X: 16 
+Index 127: -: 2 A: 1 C: 2 E: 1 D: 6 G: 4 F: 3 I: 2 H: 2 K: 4 M: 6 L: 32 N: 4 Q: 1 P: 2 S: 8 R: 4 T: 2 W: 3 V: 2 Y: 3 X: 6 
+Index 134: -: 3 A: 3 C: 2 E: 2 D: 8 G: 3 F: 5 I: 5 H: 4 K: 1 M: 2 L: 1 N: 2 Q: 3 P: 4 S: 26 R: 3 T: 1 W: 3 V: 3 Y: 2 X: 14 
+Index 259: -: 7 A: 3 C: 1 E: 3 D: 2 G: 2 F: 4 I: 1 H: 2 K: 5 M: 1 L: 1 N: 2 Q: 3 P: 3 S: 1 R: 2 T: 38 W: 3 V: 2 Y: 1 X: 13 
+Index 348: -: 2 E: 2 D: 1 G: 3 F: 3 I: 5 H: 2 K: 2 M: 2 L: 3 N: 2 Q: 3 P: 43 S: 1 R: 3 T: 1 W: 6 V: 3 Y: 3 X: 10 
+Index 431: -: 2 A: 4 C: 5 E: 2 D: 1 G: 1 F: 4 I: 4 H: 1 K: 6 M: 3 L: 2 Q: 7 S: 3 R: 3 T: 31 W: 1 V: 3 Y: 2 X: 15 
+Index 438: -: 3 A: 33 C: 3 E: 5 G: 6 F: 7 I: 5 H: 3 K: 1 M: 6 L: 2 N: 1 Q: 2 P: 4 S: 2 R: 3 T: 4 Y: 4 X: 6 
+Index 439: -: 2 A: 5 C: 3 E: 5 D: 4 G: 4 F: 21 I: 7 H: 5 K: 2 M: 1 L: 1 N: 4 Q: 4 P: 2 R: 5 T: 2 W: 3 V: 1 Y: 4 X: 15 
+Index 440: -: 5 A: 3 C: 6 E: 2 D: 4 F: 4 I: 2 H: 2 K: 1 M: 7 L: 5 N: 5 Q: 1 P: 5 S: 2 R: 29 T: 4 W: 3 Y: 3 X: 7 
+Index 455: -: 3 A: 2 C: 4 E: 5 D: 3 G: 3 F: 1 I: 3 H: 6 K: 2 M: 1 L: 1 N: 4 Q: 4 P: 5 S: 4 R: 1 T: 1 W: 3 V: 31 Y: 4 X: 9 
+Index 467: -: 1 A: 1 C: 2 E: 5 D: 3 G: 6 F: 4 I: 3 H: 5 K: 1 M: 3 L: 3 N: 33 Q: 3 S: 7 R: 2 T: 6 W: 3 V: 2 X: 7 
+Index 475: -: 4 A: 2 C: 2 E: 4 D: 3 G: 1 I: 5 H: 8 K: 3 M: 4 L: 3 N: 26 Q: 3 P: 4 S: 2 R: 3 T: 5 W: 2 V: 1 X: 15 
+Index 476: -: 4 A: 6 E: 3 D: 3 G: 5 F: 1 I: 31 H: 2 K: 7 M: 5 L: 4 N: 3 Q: 4 P: 1 S: 1 T: 4 W: 2 V: 2 Y: 4 X: 8 
+Index 477: -: 3 A: 5 C: 9 E: 2 D: 2 G: 3 F: 2 I: 2 H: 1 K: 5 M: 1 L: 5 N: 2 Q: 1 P: 1 S: 6 R: 3 W: 3 V: 31 Y: 5 X: 8 
+Index 478: -: 41 A: 4 C: 1 E: 2 D: 1 G: 3 I: 1 H: 2 K: 3 M: 3 L: 6 Q: 1 P: 1 S: 4 R: 4 T: 5 W: 1 V: 3 Y: 3 X: 11 
